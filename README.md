@@ -52,7 +52,7 @@ Below are screenshots of key parts of the system:
 
 | **Game Editor** | **Level Editor** |
 |------------------|------------------|
-| ![Game Editor](images/game_editor.png) | ![New Level](images/new_level.png) |
+| ![Game Editor](images/game_editor.png) | ![New Level](images/new_level1.png) |
 
 | **Main Menu** |
 |----------------|
