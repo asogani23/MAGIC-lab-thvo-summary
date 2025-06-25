@@ -48,7 +48,7 @@ Below are screenshots of key parts of the system:
 
 | **Pose Matching Phase** | **Gameplay Interface** |
 |--------------------------|------------------------|
-| ![Pose Match](images/pose_match.png) | ![Pose](images/pose.png) |
+| ![Pose Match](images/pose_match.png) | ![Pose](images/gui.png) |
 
 | **Game Editor** | **Level Editor** |
 |------------------|------------------|
