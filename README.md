@@ -5,6 +5,8 @@ NSF-funded project I worked on at the MAGIC lab, a summary.
 This is a project summary of my contributions to **THVO**, an interactive educational game developed at the **MAGIC Lab (Mathematical Action and Gesture in Instruction and Cognition lab)**, part of an NSF-funded initiative in human-computer interaction and learning.
 
 > **Note**: Codebase is private and IP is owned by MAGIC Lab. This repo is for portfolio and demo purposes only.
+> > 🔒 This repository contains public documentation of my contributions to the THVO project at MAGIC Lab. The images shown are from internal development builds and are used with permission for non-commercial portfolio purposes. No source code or proprietary datasets are included.
+
 
 ---
 
