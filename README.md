@@ -40,11 +40,22 @@ As an undergraduate software developer on the team, I contributed to:
 
 ## 🖼️ Screenshots
 
-Screenshots below represent stages I helped build or test:
+The THVO game leverages **real-time computer vision** (powered by MediaPipe) to track student body movements. Players physically act out geometric poses using their arms and legs, which are recognized by the system and matched to target poses on-screen. This system promotes **embodied learning**—an approach shown to enhance retention and understanding of abstract concepts like congruence and angle relationships.
 
-| Gameplay | Level Editor | Feedback Screen |
-|----------|--------------|------------------|
-| ![game](images/game.png) | ![editor](images/editor.png) | ![feedback](images/feedback.png) |
+Below are screenshots of key parts of the system:
+
+| **Pose Matching Phase** | **Gameplay Interface** |
+|--------------------------|------------------------|
+| ![Pose Match](images/pose_match.png) | ![Pose](images/pose.png) |
+
+| **Game Editor** | **Level Editor** |
+|------------------|------------------|
+| ![Game Editor](images/game_editor.png) | ![New Level](images/new_level.png) |
+
+| **Main Menu** |
+|----------------|
+| ![Home Screen](images/home_screen.png) |
+
 
 ---
 
