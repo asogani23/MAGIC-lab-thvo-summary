@@ -52,4 +52,4 @@ Screenshots below represent stages I helped build or test:
 
 This project is part of a National Science Foundation grant focused on adaptive learning tools and human-computer interaction. More details will be available upon academic publication.
 
-For more about MAGIC Lab: [https://magiclab.wisc.edu](https://magiclab.wisc.edu)
+For more about MAGIC Lab: [https://magiclab.wceruw.org/](https://magiclab.wceruw.org/)
