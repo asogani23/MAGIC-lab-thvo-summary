@@ -18,7 +18,7 @@ This is an ongoing project summary of my contributions to **THVO**, an interacti
 
 ## 👨‍💻 My Role
 
-As an undergraduate software developer on the team, I contributed to:
+As an undergraduate software developer on the team, I have contributed to:
 
 - **Frontend Gameplay Logic**: Implemented core interaction systems in Python, including game state transitions, user feedback triggers, and win/loss logic  
 - **Backend Flask Services**: Built modular endpoints for loading levels, managing save states, and logging gameplay events for analysis  
