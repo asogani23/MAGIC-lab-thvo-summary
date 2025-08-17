@@ -105,3 +105,9 @@ Below are screenshots of key parts of the system:
 This project is part of a National Science Foundation grant focused on adaptive learning tools and human-computer interaction. More details will be available upon academic publication.
 
 For more about MAGIC Lab: [https://magiclab.wceruw.org/](https://magiclab.wceruw.org/)
+
+--- 
+## 👥 Ownership
+
+Co-Lead Developer along with Tejas Gupta on gameplay systems, state orchestration, classroom mode, and data export tooling; collaborated with HCI researchers and teachers on iteration and deployment readiness.
+
