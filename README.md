@@ -89,7 +89,17 @@ Below are screenshots of key parts of the system:
 
 
 ---
+## 🧪 Pilot Snapshot
 
+- **Setting:** 4-week classroom pilot with 30+ middle-school students.
+- **Data:** multi-GB telemetry (pose + clickstream + per-phase video, consented).
+- **Result:** children's learned geometry 25% faster than those learning without the game (paper-pencil lessons, normal teaching), had higher scores on practice tests afterwards - Overall Success
+
+## 🔐 Privacy & IP
+
+- No PII in this repo; sessions use anonymous device/session IDs.
+- Code and datasets are private and owned by MAGIC Lab; this README documents **design and integration** details for technical review.
+---
 ## 🔍 Research Context
 
 This project is part of a National Science Foundation grant focused on adaptive learning tools and human-computer interaction. More details will be available upon academic publication.
