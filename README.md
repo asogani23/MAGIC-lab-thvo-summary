@@ -35,7 +35,7 @@ This is an ongoing project summary of my contributions to **THVO**, an interacti
   → [PuzzleSolved]
   → [NextLevel | ChapterSelect]
 ```
-
+---
 ## 👨‍💻 My Role
 
 As an undergraduate software developer on the team, I have contributed to:
@@ -46,7 +46,15 @@ As an undergraduate software developer on the team, I have contributed to:
 - **Playtesting & Data Collection**: Ran controlled user sessions, captured gameplay data and pose-matching logs, and synthesized feedback into design improvements  
 - **Computer Vision Support (Embodied Learning)**: Supported the integration of a webcam-based pose recognition pipeline (MediaPipe/OpenCV) to capture player movements in real time; validated pose-matching logic and synced it to educational game sequences focused on geometric transformations  
 - **Cross-Disciplinary Collaboration**: Worked with HCI researchers, educators, and developers to align technical implementation with instructional goals and data collection needs for NSF-backed research
+---
+```
+## 🧩 Core Systems (Engineering)
 
+- **Renderer:** PixiJS scene graph (sprites, hit areas, HUD, dynamic text) with a deterministic tick loop for consistent timing.
+- **State machines:** XState charts per domain (Game, Level, UI) with guards/assign/actions; transitions are testable and support replay from event logs.
+- **Classroom mode:** Role-based menus (student/teacher/researcher), lesson chooser, and in-game editors for levels/narrative.
+- **Telemetry & export:** Per-session UUID + device identity; JSON→CSV export via an admin **Data** menu; per-phase video captured with the browser **MediaRecorder** API and uploaded to Firebase Storage.
+- **Latency & stability:** Debounced pose events, batched reducers, and minimal layout thrash to keep input→feedback under target bounds.
 
 ---
 
@@ -59,6 +67,7 @@ As an undergraduate software developer on the team, I have contributed to:
 - Educational design principles
 
 ---
+
 
 ## 🖼️ Screenshots
 
