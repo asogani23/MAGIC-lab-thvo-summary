@@ -1,4 +1,4 @@
-# MAGIC-lab-thvo-summary
+# MAGIC-lab-The Hidden Village Online
 NSF-funded project I am working on at the MAGIC lab, a summary.
 # THVO Educational Game – MAGIC Lab @ UW–Madison
 
