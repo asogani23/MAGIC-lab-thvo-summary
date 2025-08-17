@@ -15,6 +15,25 @@ This is an ongoing project summary of my contributions to **THVO**, an interacti
 **THVO** is a game designed to teach logic, strategy, and memory through exploratory gameplay, built for classroom and research-based deployment. The game integrates a visual UI, progressive difficulty scaling, and live feedback loops based on student input.
 
 ---
+## ⚙️ Architecture (High-Level)
+
+- **Client:** React app with a **PixiJS** 2D renderer for low-latency scenes and UI overlays.
+- **State orchestration:** **XState** finite state machines coordinate chapter → tutorial → pose-match → feedback → next-level flow.
+- **Pose input:** **MediaPipe** (webcam) provides live landmarks; a thin adapter maps pose events to in-game actions.
+- **Data layer:** **Firebase** (Auth, Realtime Database, Storage) for role-based access (student/teacher/researcher), session logging, and phase video uploads.
+- **Services:** **Flask** endpoints for level metadata, session handoff, and export helpers (source is private; representative shapes below).
+
+## 🔄 Game Flow (XState Snapshot)
+
+```text
+[Splash]
+  → [ChapterSelect]
+  → [Tutorial]
+  → [PoseMatch]
+      ↔ [Intervention]  # teacher hint / scaffold
+  → [Feedback]
+  → [PuzzleSolved]
+  → [NextLevel | ChapterSelect]
 
 ## 👨‍💻 My Role
 
