@@ -34,6 +34,7 @@ This is an ongoing project summary of my contributions to **THVO**, an interacti
   → [Feedback]
   → [PuzzleSolved]
   → [NextLevel | ChapterSelect]
+```
 
 ## 👨‍💻 My Role
 
