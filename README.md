@@ -47,7 +47,7 @@ As an undergraduate software developer on the team, I have contributed to:
 - **Computer Vision Support (Embodied Learning)**: Supported the integration of a webcam-based pose recognition pipeline (MediaPipe/OpenCV) to capture player movements in real time; validated pose-matching logic and synced it to educational game sequences focused on geometric transformations  
 - **Cross-Disciplinary Collaboration**: Worked with HCI researchers, educators, and developers to align technical implementation with instructional goals and data collection needs for NSF-backed research
 ---
-```
+
 ## 🧩 Core Systems (Engineering)
 
 - **Renderer:** PixiJS scene graph (sprites, hit areas, HUD, dynamic text) with a deterministic tick loop for consistent timing.
